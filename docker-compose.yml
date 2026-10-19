@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: asan-abylai-devops
+    container_name: asan-abylai-container
+    environment:
+      STUDENT_NAME: "Abylai"
+      STUDENT_SURNAME: "Asan"
+      STUDENT_GROUP: "IT2-2301"
+      STUDENT_ID: "37804"
+    ports:
+      - "8081:8080"   # 8081 on the host, because Jenkins uses 8080
