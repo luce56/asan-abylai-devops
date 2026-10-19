@@ -1,0 +1,10 @@
+# Logs and backups must not be stored in the repository
+*.log
+backup/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
