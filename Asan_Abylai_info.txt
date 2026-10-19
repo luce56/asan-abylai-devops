@@ -1,0 +1,5 @@
+Name: Abylai
+Surname: Asan
+Group: IT2-2301
+Student ID: 37804
+Course: DevOps
