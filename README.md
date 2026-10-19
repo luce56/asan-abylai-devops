@@ -19,3 +19,5 @@ asan_abylai/
 ├── logs/         log files (ignored by Git)
 └── backup/       backups (ignored by Git)
 ```
+
+See [docs/WORKFLOW.md](docs/WORKFLOW.md) for the description of the DevOps workflow.
